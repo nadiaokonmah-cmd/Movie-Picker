@@ -1,0 +1,4 @@
+streamlit>=1.50,<2
+altair>=5,<7
+pydantic-ai-slim[google]>=1,<2
+requests
